@@ -1,0 +1,14 @@
+{
+  "name": "webslate",
+  "version": "0.5.0",
+  "description": "WebSlate JS Web App Framework ",
+  "keywords": [
+    "WebSlate",
+    "Web Apps",
+    "Web App Frameworks"
+  ],
+  "author": "DarkSystem",
+  "license": "MIT",
+  "repository": "git@github.com:DarkSystemGit/WebSlate",
+  "main": "dist/index.js"
+}
